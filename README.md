@@ -1,2 +1,2 @@
 # Ik-WC
-woocommerce customizations
+woocommerce Manufacturer Plugin
